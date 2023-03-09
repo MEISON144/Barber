@@ -1,0 +1,22 @@
+.footer-sect{
+    height: 170px;
+    background-image: url('../image/Layer_23.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+}
+.footer-container{
+    max-width: 960px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+} 
+.footer-info{
+
+    font-size: 14px;
+    font-family: PTSansNarrow;
+    text-transform: uppercase;
+    color: white;
+    line-height: 24px;
+}

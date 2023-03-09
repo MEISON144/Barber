@@ -1,0 +1,10 @@
+.map-img1{
+    display: none;
+}
+
+.map-img2{
+    display: block;
+    grid-row: 1;
+    grid-column: 1;
+    margin: auto;
+}
